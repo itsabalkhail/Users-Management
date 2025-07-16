@@ -2,7 +2,7 @@
 
 A simple, secure PHP-based user management system with MySQL database integration. This project provides a clean interface for managing users with features like adding new users, viewing user lists, and toggling user status.
 
-![](https://github.com/itsabalkhail/Users-Management/blob/main/Screenshot%202025-07-16%20174228.png?raw=true).
+![](https://github.com/itsabalkhail/Users-Management/blob/main/Screenshot%202025-07-16%20174228.png?raw=true)
 
 ## Features
 
@@ -104,7 +104,7 @@ CREATE TABLE `users` (
 - `status`: User status (0 = Inactive, 1 = Active)
 - `created_at`: Record creation timestamp
 
-![](https://github.com/itsabalkhail/Users-Management/blob/main/Screenshot%202025-07-15%20180349.png?raw=true).
+![](https://github.com/itsabalkhail/Users-Management/blob/main/Screenshot%202025-07-15%20180349.png?raw=true)
 
 ## Usage
 
