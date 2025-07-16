@@ -104,6 +104,8 @@ CREATE TABLE `users` (
 - `status`: User status (0 = Inactive, 1 = Active)
 - `created_at`: Record creation timestamp
 
+![](https://github.com/itsabalkhail/Users-Management/blob/main/Screenshot%202025-07-15%20180349.png?raw=true).
+
 ## Usage
 
 ### Adding a New User
